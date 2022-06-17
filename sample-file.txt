@@ -6,7 +6,7 @@ git init--use to initialize git repository
 git add
 git commit
 git push
-diff
+git diff--this will tell the difference of old and modified file
 log
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
