@@ -1,0 +1,10 @@
+hello
+welcome to git learning
+this is my first day of learning
+here are some interesting git commands:
+git init
+git add
+git commit
+git push
+diff
+log
