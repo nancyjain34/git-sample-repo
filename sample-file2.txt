@@ -1,0 +1,1 @@
+After cloning we are pushing this file to same repository in github
