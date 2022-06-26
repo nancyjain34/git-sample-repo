@@ -7,9 +7,13 @@ git add file_
 git commit
 git push
 git diff--this will tell the difference of old and modified file
+git branch --//tells if the brach is master.
+inside master branch//git checkout -b branch_name
 log
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 git username: nancyjain34
-git token/password: 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 --this is used in command line or API
+git token/password: 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 --this is used in command line or API
 github login password: Nancy@2109
+--------
+these are the changes made to privatebranch1
