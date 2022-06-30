@@ -13,3 +13,5 @@ git config --global user.name "Your Name"
 git username: nancyjain34
 git token/password: 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 --this is used in command line or API
 github login password: Nancy@2109
+
+this is privatebranch2
