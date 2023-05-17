@@ -1,14 +1,15 @@
-hello
-welcome to git learning
-this is my first day of learning
 here are some interesting git commands:
 git init--use to initialize git repository 
-git add file_
+git add filename or git add *
 git commit
 git push
+git clone //this is used for the first time to get the entire repo code
+git pull //this will pull only changes and update local repo with latest code
+git pull 
 git diff--this will tell the difference of old and modified file
 git branch --//tells if the brach is master.
-inside master branch//git checkout -b branch_name
+inside master branch//git checkout -b branch_name --this will create and switch to new branch
+git checkout branchname
 log
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
