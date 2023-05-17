@@ -18,7 +18,7 @@ git username: nancyjain34
 git token/password: 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 --this is used in command line or API
 github login password: Nancy@2109
 --------
-these are the changes made to privatebranch1 
+these are the changes made to branch2
 
-
+Merging occurs locally while pushing acts on a remote repository. 
 this is privatebranch2
